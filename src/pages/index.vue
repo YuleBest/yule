@@ -181,7 +181,7 @@ const projects = ref([
       "小米 BL 解锁答题助手丨一款面向小米手机用户的客户端 Web 应用，助你备考小米解锁 Bootloader 考试，应用支持智能题库搜索、收藏管理和解锁资格计算，且支持离线运行。",
     technologies: ["JavaScript", "HTML5"],
     githubUrl: "https://github.com/YuleBest/xiaomi-bl-unlock-helper",
-    demoUrl: "bl.yule.ink",
+    demoUrl: "https://bl.yule.ink",
   },
   {
     name: "gobangol",
